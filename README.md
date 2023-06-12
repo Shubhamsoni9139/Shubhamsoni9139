@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shubham soni</h1>
+<h1 align="center"> <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hello,+There!+👋;I+am+👾+Shubham+👾&center=true&size=30">
+  </a></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsoni9139&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsoni9139" /> </p>
