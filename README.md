@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **python, c++**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ss4185667@gmail.com**
 
